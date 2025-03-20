@@ -1,5 +1,5 @@
 ## Hi there 👋! 
-I'm J Ficchini, a software developement student at FATEC Indaiatuba.
+I'm J Ficchini, a software development student at FATEC Indaiatuba.
 
 ![JFicchini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jficchini&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jficchini&show_icons=true&theme=tokyonight)](https://github.com/jficchini/github-readme-stats)
